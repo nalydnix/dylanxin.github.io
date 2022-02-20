@@ -1,0 +1,11 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  # - title: "ASPA"
+  #   url: /aspa/
+  # - title: "Tutoring"
+  #   url: /tutoring/
+  - title: "Posts"
+    url: /posts/
