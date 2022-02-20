@@ -4,4 +4,4 @@ title: Posts
 permalink: /posts/
 ---
 
-<a href="/posts/search/" class="btn btn--primary">Search</a>
+<a href="/search/" class="btn btn--primary">Search</a>
