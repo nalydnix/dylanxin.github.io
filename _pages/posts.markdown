@@ -4,4 +4,4 @@ title: Posts
 permalink: /posts/
 ---
 
-<a href="/search/" class="btn btn--primary">Search</a>
+<a href="{{site.baseurl}}/search/" class="btn btn--primary">Search</a>
