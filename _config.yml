@@ -34,36 +34,36 @@ author:
   name: "Dylan Xin"
   avatar: /assets/images/profile_picture.jpg
   # avatar: "/assets/images/bio-photo.jpg"
-  bio: "A regular software engineering student at UoA. <br><br> *Journeys will always someday reach their ends, no need to rush...* <br><br>WeChat: xdh0526" # Note: Markdown is allowed
+  bio: "A regular software engineering student at UoA." # Note: Markdown is allowed
   location: "Auckland, New Zealand"
   links:
     # - label: "GitHub"
     #   icon: "fab fa-fw fa-github"
     #   url: "https://github.com/nalydnix"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook"
-      url: "https://www.facebook.com/profile.php?id=100008572926950"
-    - label: "Bilibili"
-      icon: "fas fa-fw fa-link"
-      url: "https://space.bilibili.com/86775668"
-    - label: "Email"
+    # - label: "Facebook"
+    #   icon: "fab fa-fw fa-facebook"
+    #   url: "https://www.facebook.com/profile.php?id=100008572926950"
+    # - label: "Bilibili"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://space.bilibili.com/86775668"
+    - label: "dylanxin@outlook.com"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:dxin779@aucklanduni.ac.nz"
+      url: "mailto:dylanxin@outlook.com"
 
 footer:
   links:
     # - label: "GitHub"
     #   icon: "fab fa-fw fa-github"
     #   url: "https://github.com/nalydnix"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook"
-      url: "https://www.facebook.com/profile.php?id=100008572926950"
-    - label: "Bilibili"
-      icon: "fas fa-fw fa-link"
-      url: "https://space.bilibili.com/86775668"
-    - label: "Email"
+    # - label: "Facebook"
+    #   icon: "fab fa-fw fa-facebook"
+    #   url: "https://www.facebook.com/profile.php?id=100008572926950"
+    # - label: "Bilibili"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://space.bilibili.com/86775668"
+    - label: "dylanxin@outlook.com"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:dxin779@aucklanduni.ac.nz"
+      url: "mailto:dylanxin@outlook.com"
 
 # Build settings
 # theme: minima

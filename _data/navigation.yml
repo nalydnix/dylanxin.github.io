@@ -1,8 +1,8 @@
 main:
   - title: "Home"
     url: /
-  - title: "About"
-    url: /about/
+  - title: "About Me"
+    url: /aboutme/
   # - title: "ASPA"
   #   url: /aspa/
   # - title: "Tutoring"
