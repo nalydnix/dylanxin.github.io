@@ -21,7 +21,7 @@ feature:
     btn_class: "btn--inverse"
     url: "https://ice-breakers-game.herokuapp.com/"
 
-  - image_path: assets\images\pool.jpg
+  - image_path: assets/images/pool.jpg
     alt: "placeholder image 1"
     title: "ASPA 2022"
     excerpt: "I am the co-president of the Auckland Student Pool Association 2022. Our club aims to promote cuesports by hosting casual and competitive pool events for university students in Auckland!"
