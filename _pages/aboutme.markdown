@@ -6,9 +6,7 @@ toc: true
 toc_sticky: true
 ---
 
-This is basically my resume lol.
-
-## Education
+<!-- ## Education
 
 - **2019 - Present**
 
@@ -32,7 +30,7 @@ This is basically my resume lol.
   - **Frontend Developer** at **Lovelive Limited**
     - Reconstructed the UI of an Android food delivery app (Pincou). I worked closely with clients to design and implement UI and additional requirements.
     - Developed a real-time order allocation app for delivery drivers using the Flutter framework (Soda Runman). I contributed mainly to UI design and implementation.
-    - Developed a social networking mobile app that allows users to organise events with their friends (Uni). I was responsible for instant messaging functionalities, working on both frontend and backend.
+    - Developed a social networking mobile app that allows users to organise events with their friends (Uni). I was responsible for instant messaging functionalities, working on both frontend and backend. -->
 
 ## Work Experience
 
@@ -57,17 +55,17 @@ This is basically my resume lol.
 - **2022 - Present**
   - **Co-president** at **Auckland Student Pool Association**
     - Planned and organised events for the club.
-    - Coached beginners during the events. 
+    - Coached beginners during the events.
     - Worked closely with our sponsors to promote billiard sports.
 - **Mar 2022 - Mar 2022**
   - **UniGuide** at **University of Auckland**
     - Gave tips of campus resources and support services.
-    - Let new students know about different activities on campus. 
+    - Let new students know about different activities on campus.
     - Answered or followed up on any questions new students might have.
-- **Jul 2020 - Oct 2020** 
+- **Jul 2020 - Oct 2020**
   - **First Violin** at **Auckland Youth Orchestra**
-    - Weekly rehearsals. 
-    - Daily individual practice. 
+    - Weekly rehearsals.
+    - Daily individual practice.
     - Performances in Helensville and Auckland Town Hall.
 - **2015 - 2018**
   - **First/Second Violin** at **Westlake Symphony Orchestra, Westlake Chamber Orchestra, Westlake Boys Camerata**
@@ -81,5 +79,3 @@ This is basically my resume lol.
   - NCEA Scholarship in Calculus.
 - **2017**
   - Level 4 Diploma in Music Performance ATCL Violin Recital.
-- **2001 - Present**
-  - Staying alive.
