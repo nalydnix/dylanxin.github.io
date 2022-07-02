@@ -24,7 +24,7 @@ feature:
   - image_path: assets/images/pool.jpg
     alt: "placeholder image 1"
     title: "ASPA 2022"
-    excerpt: "I am the co-president of the Auckland Student Pool Association 2022. Our club aims to promote cuesports by hosting casual and competitive pool events for university students in Auckland!"
+    excerpt: "Auckland Student Pool Association aims to promote cuesports by hosting casual and competitive pool events for university students in Auckland!"
     btn_label: "ASPA Linktree"
     btn_class: "btn--inverse"
     url: "https://linktr.ee/ASPAUOA"
